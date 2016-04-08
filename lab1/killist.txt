@@ -1,0 +1,5 @@
+mdmonitor // raid array monitoring. no raid array
+netconsole // sends debug information as packets. don't plan on using
+postfix // mailer service. don't plan on sending mail
+restorecond // watches certain files, that they comply with selinux policies. we disabled that
+rsyslog // forwards log messages over ip network. also unnecessary
